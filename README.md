@@ -6,7 +6,7 @@ This project is a **Facial Emotion Recognition (FER)** system built and trained 
 
 ## 📂 Dataset
 
-We use the **[FER2013 Emotion Detection Dataset](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)** from Kaggle. It contains 35,887 grayscale images (48x48 pixels) categorized into 7 emotions.
+We use the **[Emotion Detection Dataset](https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer)** from Kaggle. It contains 35,887 grayscale images (48x48 pixels) categorized into 7 emotions.
 
 **Emotions Detected:**
 

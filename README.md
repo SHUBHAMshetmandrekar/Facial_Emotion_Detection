@@ -1,10 +1,6 @@
-Here’s a clean and informative README file content for your **Facial Emotion Detection** Colab notebook project using the FER dataset and Gradio interface:
+# Facial Emotion Detection 
 
----
-
-# Facial Emotion Detection 🤖😊😭😡
-
-This project is a **Facial Emotion Recognition (FER)** system built using deep learning. It detects human emotions from facial expressions in real-time using a webcam or image upload. The interface is built using **Gradio**, making it easy to interact with the model in a web app format.
+This project is a **Facial Emotion Recognition (FER)** system built and trained on a custom Convolutional Neural Network (CNN) for emotion classification.. It detects human emotions from facial expressions in an image upload. The interface is built using **Gradio**, making it easy to interact with the model in a web app format.
 
 ---
 
